@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+ 	  <title> Joost Roettger</title>
+    <meta name="description" content="Joost Roettger, Economist, Deutsche Bundesbank, Directorate General Economics"/>
+    <meta name="keywords" content="Joost Roettger, Deutsche Bundesbank, Macroeconomics, Monetary and Fiscal Policy, Sovereign Debt and Default, Political Economy, Computational Methods, Heterogeneous Agents"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="shortcut icon" type="image/jpg" href="/files/icon.jpg">
+    <link rel="stylesheet" href="{{ "css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+
+        {% if site.logo %}
+        {% endif %}
+        <span><img src="/files/photo.jpg" class="resize" alt="Logo" /> </span>
+         <!--<span id="around">-->
+            <!--<span id="original"><img src="/files/photo.jpg" class="resize" alt="Logo" /> </span>-->
+            <!-- <span id="hover"><img src="/files/photo_hover.jpg" class="resize"/></span>-->
+          <!-- </span> -->
+          <p>
+          <br><b>Email:</b>
+          <br>joost [dot] roettger [at] gmail [dot] com
+          <br>
+          <br><b>Address:</b>
+          <br>Deutsche Bundesbank
+          <br>Wilhelm-Epstein-Str. 14
+          <br>60431 Frankfurt am Main
+          <br>Germany
+          <br>
+          <br><b>Disclaimer:</b>
+          <br><i>This is my personal website. The views expressed here are my own and do not necessarily represent those of the Deutsche Bundesbank or the Eurosystem.</i>
+          </p>			
+
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+    </div>
+  </body>
+</html>

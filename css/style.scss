@@ -1,0 +1,76 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+h1
+{
+    font-family: Helvetica, Arial, sans-serif;
+    color: rgb(35, 31, 32);
+    font-size: 17pt;
+}
+
+b
+{
+    font-family: Helvetica, Arial, sans-serif;
+    color: rgb(35, 31, 32);
+    font-size: 11pt;
+}
+
+h2, h3
+{
+    font-family: Helvetica, Arial, sans-serif;
+    color: rgb(35, 31, 32);
+    font-size: 11pt;
+}
+
+body
+{
+    font-family: Times, Georgia, serif;
+    color: rgb(35, 31, 32);
+    font-size: 11pt;
+}
+
+a:link {
+  color: rgb(0, 102, 165);
+}
+
+a:visited {
+  color: rgb(0, 102, 165);
+}
+
+a:hover {
+  color: rgb(253, 185, 18);
+}
+
+a:active {
+  color: rgb(253, 185, 18);
+} 
+
+tr
+{
+    background-color: rgb(229,229,229);
+}
+
+details > p {
+  margin: 0;
+  box-shadow: 1px 1px 2px #bbbbbb;
+}
+
+summary {
+  cursor: pointer;
+}
+
+.resize {
+  max-width: 50%;
+}
+
+#hover {
+  display: none;
+}
+#around:hover span#original {
+  display: none;
+}
+#around:hover span#hover {
+  display: block;
+}
