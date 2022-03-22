@@ -1,5 +1,3 @@
-<b>Economist, <a href="https://www.bundesbank.de/en/" target="_blank">Deutsche Bundesbank</a>, Directorate General Economics</b>
-
 <b>Research Interests:</b> 
 <br>Macroeconomics, Monetary and Fiscal Policy, Heterogeneity, Sovereign Default
 
