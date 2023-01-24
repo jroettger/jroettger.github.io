@@ -29,7 +29,44 @@
 
 <h3>Working Papers:</h3>
 
-  Financial Regulation, Interest Rate Responses, and Distributive Effects (2021)
+   Make-Up Strategies with Incomplete Markets and Bounded Rationality
+  <br>(with M. Dobrew, R. Gerke and S. Giesen)
+  <br><i>Deutsche Bundesbank Technical Papers</i>, 01/2023.
+  <p style="  margin-bottom: -20px;">
+  <details>
+  <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://www.bundesbank.de/resource/blob/889250/56aa852c51907a7ced79ee3d4621d7f5/mL/2023-01-23-dkp-01-data.pdf" target="_blank">[Link]</a></font></b></summary>
+  
+  <table>
+    <tbody>
+      <tr>
+        <td style="text-align: left">We study the impact of market incompleteness and bounded rationality on the effectiveness of make-up strategies. To do so, we simulate a heterogeneous-agent New Keynesian (HANK) model with reflective expectations and an occasionally-binding effective lower bound (ELB) on the policy rate. Our simulations show that make-up strategies can mitigate the negative consequences of the ELB for inflation and real economic activity. This result holds both for our HANK model as well as a corresponding representative-agent (RANK) model with complete markets, suggesting that market (in)completeness is not important for the effectiveness of make-up strategies. However, the stabilisation benefits of make-up strategies are small when agents’ cognitive ability is consistent with micro-evidence. This result is independent of market (in)completeness, emphasising the importance of rational expectations for make-up strategies. Furthermore, while market incompleteness and bounded rationality complement each other in attenuating the effects of forward guidance in our model, we do not observe such a complementarity with respect to the benefits of make-up strategies.</td>
+      </tr>
+    </tbody>
+  </table>
+ 
+ </details>
+ <p></p>
+ </p>
+ 
+  Convenient but Risky Government Bonds (2022)
+  <br>(with M. Kaldorf)
+  <p style="  margin-bottom: -20px;">
+  <details>
+  <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://kaldorfmatthias.github.io/Files/Kaldorf_Roettger_Convenient.pdf" target="_blank">[Link]</a></font></b></summary>
+  
+  <table>
+    <tbody>
+      <tr>
+        <td style="text-align: left">How does convenience yield interact with sovereign risk and the supply of government bonds? To answer this question, this paper builds a quantitative model of sovereign debt and default, in which convenience yield arises because investors derive non-pecuniary benefits from holding risky government bonds. Convenience yield negatively depends on government bond supply and on haircuts that in turn increase in sovereign risk, reflecting mark-to-market practice on financial markets. Calibrated to Italian data, convenience yield increases the equilibrium debt-to-GDP ratio by around 10% and can rationalize prolonged periods of negative bond spreads even in the presence of default risk. We also provide a decomposition of convenience yield into a collateral valuation and a haircut component. Counterfactual experiments suggest that the elasticity of each component with respect to government bond supply has sizable effects on debt and default dynamics.</td>
+      </tr>
+    </tbody>
+  </table>
+
+ </details>
+ <p></p>
+ </p>
+ 
+   Financial Regulation, Interest Rate Responses, and Distributive Effects (2021)
   <br>(with C. Loenser and A. Schabert)
   <p style="  margin-bottom: -20px;">
   <details>
@@ -39,24 +76,6 @@
     <tbody>
       <tr>
         <td style="text-align: left">This paper examines financial regulation and distortionary taxes in a heterogeneous-agents economy with pecuniary externalities induced by a collateral constraint. Limiting the loan-to-value ratio benefits only few unconstrained borrowers and reduces ex-ante social welfare. A Pigouvian-style symmetric debt tax (that subsidizes savings) raises collateral prices and lowers interest rates, which stimulates borrowing and generates welfare gains for almost all income groups. A Pigouvian-style asset subsidy induces a wealth appreciation, while an asset tax particularly benefits low-wealth borrowers and enhances social welfare. Overall, collateral effects are of minor importance and interest rate rather than asset price responses are decisive for welfare effects.</td>
-      </tr>
-    </tbody>
-  </table>
-
- </details>
- <p></p>
- </p>
- 
-  Convenient but Risky Government Bonds (2021)
-  <br>(with M. Kaldorf)
-  <p style="  margin-bottom: -20px;">
-  <details>
-  <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://drive.google.com/file/d/1lG2m2y8TmLcBMCV4tyHvWFffgZWq6k07/view" target="_blank">[Link]</a></font></b></summary>
-  
-  <table>
-    <tbody>
-      <tr>
-        <td style="text-align: left">How does convenience yield interact with sovereign risk and the supply of government bonds? To answer this question, this paper builds a quantitative model of sovereign debt and default, in which convenience yield arises because investors derive non-pecuniary benefits from holding risky government bonds, capturing the ability to use these bonds as collateral on financial markets. Convenience yield depends on the demand for and the supply of collateral as well as haircuts that increase in sovereign risk, reflecting mark-to-market practice on financial markets. Calibrated to Italian data, the model can replicate observed properties of financial market variables and public debt management. To understand convenience yield through the lenses of our model, we provide a decomposition of it into individual components. Counterfactual experiments suggest that the elasticity of a collateral valuation component and a haircut component with respect to government bond supply and default risk can have sizable effects on debt and default dynamics.</td>
       </tr>
     </tbody>
   </table>
