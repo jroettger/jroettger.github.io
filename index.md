@@ -29,6 +29,26 @@
 
 <h3>Working Papers:</h3>
 
+  Convenient but Risky Government Bonds (2023)
+  <br>(with M. Kaldorf)
+  <br><i>Deutsche Bundesbank Disussion Paper</i>, 15/2023.
+  <p style="  margin-bottom: -20px;">
+  <details>
+  <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://www.bundesbank.de/resource/blob/902666/20eb155c1c91855b07180c1e0a8a5b31/mL/2023-06-09-dkp-15-data.pdf" target="_blank">[Link]</a></font></b></summary>
+  
+  <table>
+    <tbody>
+      <tr>
+        <td style="text-align: left">How does convenience yield interact with sovereign risk and the supply of government bonds? We propose a model of sovereign debt and default in which convenience yield arises because investors are able to pledge government bonds as collateral on financial markets. Convenience yield is dependent on the valuation of collateral, which is negatively dependent on the supply of government bonds, and haircuts that increase with sovereign risk. Calibrated to Italian data, convenience yield contributes substantially to the public debt-to-GDP ratio and can rationalise prolonged periods of negative bond spreads, even in the presence of default risk. We show that the debt elasticity of convenience yield is the most important driver of our results. Decomposing it into the debt elasticity of a collateral valuation and a haircut component, we find that, under empirically relevant conditions, a higher debt elasticity of haircuts can reduce fiscal discipline.</td>
+      </tr>
+    </tbody>
+  </table>
+
+ </details>
+ <p></p>
+ </p>
+
+
    Make-Up Strategies with Incomplete Markets and Bounded Rationality
   <br>(with M. Dobrew, R. Gerke and S. Giesen)
   <br><i>Deutsche Bundesbank Disussion Paper</i>, 01/2023.
@@ -47,25 +67,7 @@
  </details>
  <p></p>
  </p>
- 
-  Convenient but Risky Government Bonds (2022)
-  <br>(with M. Kaldorf)
-  <p style="  margin-bottom: -20px;">
-  <details>
-  <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://kaldorfmatthias.github.io/Files/Kaldorf_Roettger_Convenient.pdf" target="_blank">[Link]</a></font></b></summary>
   
-  <table>
-    <tbody>
-      <tr>
-        <td style="text-align: left">How does convenience yield interact with sovereign risk and the supply of government bonds? To answer this question, this paper builds a quantitative model of sovereign debt and default, in which convenience yield arises because investors derive non-pecuniary benefits from holding risky government bonds. Convenience yield negatively depends on government bond supply and on haircuts that in turn increase in sovereign risk, reflecting mark-to-market practice on financial markets. Calibrated to Italian data, convenience yield increases the equilibrium debt-to-GDP ratio by around 10% and can rationalize prolonged periods of negative bond spreads even in the presence of default risk. We also provide a decomposition of convenience yield into a collateral valuation and a haircut component. Counterfactual experiments suggest that the elasticity of each component with respect to government bond supply has sizable effects on debt and default dynamics.</td>
-      </tr>
-    </tbody>
-  </table>
-
- </details>
- <p></p>
- </p>
- 
    Financial Regulation, Interest Rate Responses, and Distributive Effects (2021)
   <br>(with C. Loenser and A. Schabert)
   <p style="  margin-bottom: -20px;">
