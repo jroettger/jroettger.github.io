@@ -29,7 +29,7 @@
 
 <h3>Working Papers:</h3>
 
-  Convenient but Risky Government Bonds (2023)
+  Convenient but Risky Government Bonds
   <br>(with M. Kaldorf)
   <br><i>Deutsche Bundesbank Disussion Paper</i>, 15/2023.
   <p style="  margin-bottom: -20px;">
