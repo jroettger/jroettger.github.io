@@ -31,7 +31,7 @@
 
   Convenient but Risky Government Bonds
   <br>(with M. Kaldorf)
-  <br><i>Deutsche Bundesbank Disussion Paper</i>, 15/2023.
+  <br><i>Deutsche Bundesbank Discussion Paper</i>, 15/2023.
   <p style="  margin-bottom: -20px;">
   <details>
   <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://www.bundesbank.de/resource/blob/902666/20eb155c1c91855b07180c1e0a8a5b31/mL/2023-06-09-dkp-15-data.pdf" target="_blank">[Link]</a></font></b></summary>
@@ -51,7 +51,7 @@
 
    Make-Up Strategies with Incomplete Markets and Bounded Rationality
   <br>(with M. Dobrew, R. Gerke and S. Giesen)
-  <br><i>Deutsche Bundesbank Disussion Paper</i>, 01/2023.
+  <br><i>Deutsche Bundesbank Discussion Paper</i>, 01/2023.
   <p style="  margin-bottom: -20px;">
   <details>
   <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://www.bundesbank.de/resource/blob/889250/56aa852c51907a7ced79ee3d4621d7f5/mL/2023-01-23-dkp-01-data.pdf" target="_blank">[Link]</a></font></b></summary>
