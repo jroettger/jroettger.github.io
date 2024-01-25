@@ -29,6 +29,26 @@
 
 <h3>Working Papers:</h3>
 
+  On Household Labour Supply in Sticky-Wage HANK Models
+  <br>(with R. Gerke, S. Giesen and M. Lozej)
+  <br><i>Deutsche Bundesbank Discussion Paper</i>, 01/2024.
+  <p style="  margin-bottom: -20px;">
+  <details>
+  <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://www.bundesbank.de/resource/blob/834744/8ae4a5d5859a2375808f19ba2eae1a59/mL/2024-01-12-dkp-01-data.pdf" target="_blank">[Link]</a></font></b></summary>
+  
+  <table>
+    <tbody>
+      <tr>
+        <td style="text-align: left">Heterogeneous-agent New Keynesian models with sticky nominal wages usually assume that wage-setting unions demand the same amount of hours from all households. As a result, unions do not take account of the fact that (i) households are heterogeneous in their willingness to work, and that (ii) some households might have to work more hours than they would like to. In this paper, we consider two departures from the standard modelling approach. First, we consider a model version in which unions can demand different hours from different households, directly taking household heterogeneity into account. In this case, we show that unions find it optimal to ration hours worked for all households, such that nobody works more than desired. Compared to the standard case in which all households work the same amount by assumption, the response of output, wages and inflation to monetary policy shocks becomes notably less pronounced. This attenuation reflects that hours worked respond differently across the income distribution. The second model version we consider maintains the assumption that all households work the same amount but prohibits unions from requiring any household to work more than it would like to. This modification substantially lowers the effective stickiness of nominal wages, resulting in markedly different wage and inflation dynamics.</td>
+      </tr>
+    </tbody>
+  </table>
+
+ </details>
+ <p></p>
+ </p>
+
+
   Convenient but Risky Government Bonds
   <br>(with M. Kaldorf)
   <br><i>Deutsche Bundesbank Discussion Paper</i>, 15/2023.
@@ -49,7 +69,7 @@
  </p>
 
 
-   Make-Up Strategies with Incomplete Markets and Bounded Rationality
+  Make-Up Strategies with Incomplete Markets and Bounded Rationality
   <br>(with M. Dobrew, R. Gerke and S. Giesen)
   <br><i>Deutsche Bundesbank Discussion Paper</i>, 01/2023.
   <p style="  margin-bottom: -20px;">
