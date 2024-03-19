@@ -181,6 +181,25 @@
 
 <h3>Policy Papers:</h3>
 
+  A Primer on Optimal Policy Projections
+  <br>(with T. Dengler, R. Gerke, S. Giesen, D. Kienzler, A. Scheer and J. Wacks)
+  <br><i>Deutsche Bundesbank Technical Papers</i>, 01/2024.
+  <p style="  margin-bottom: -20px;">
+  <details>
+  <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://www.bundesbank.de/resource/blob/922200/5af7e7312a82e909e28a17ee42f556f2/mL/2024-01-technical-paper-data.pdf" target="_blank">[Link]</a></font></b></summary>
+  
+  <table>
+    <tbody>
+      <tr>
+        <td style="text-align: left">Optimal policy projections (OPPs) offer a flexible way to derive scenario-based policy recommendations. This note describes how to calculate OPPs for a simple textbook New Keynesian model and provides illustrations for various examples. It also demonstrates the versatility of the approach by showing OPP results for simulations conducted using a medium-scale DSGE model and a New Keynesian model with heterogeneous households.</td>
+      </tr>
+    </tbody>
+  </table>
+
+ </details>
+ <p></p>
+ </p>
+
   A Comparison of Monetary Policy Rules in a HANK Model
   <br>(with M. Dobrew, R. Gerke and S. Giesen)
   <br><i>Deutsche Bundesbank Technical Papers</i>, 02/2021.
