@@ -7,7 +7,26 @@
 
 <h3> Publications:</h3>
 
-  Discretionary Monetary and Fiscal Policy with Endogenous Sovereign Risk
+   Make-Up Strategies with Incomplete Markets and Bounded Rationality
+  <br>(with M. Dobrew, R. Gerke and S. Giesen)
+  <br><i>European Economic Review</i>, Vol. 173, 2025, 104941.
+  <p style="  margin-bottom: -20px;">
+  <details>
+  <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://doi.org/10.1016/j.euroecorev.2024.104941" target="_blank">[Link]</a></font></b></summary>
+  
+  <table>
+    <tbody>
+      <tr>
+        <td style="text-align: left">We study the impact of market incompleteness and bounded rationality on the effectiveness of make-up strategies. Using a heterogeneous-agent New Keynesian model with reflective expectations, we show that make-up strategies can mitigate the negative consequences of an occasionally-binding effective lower bound. However, the benefits are small when cognitive ability is in line with micro-evidence. These findings are independent of market (in)completeness, emphasising the importance of rational expectations. While market incompleteness and bounded rationality complement each other in attenuating the effects of forward guidance, we do not observe such a complementarity for the effectiveness of make-up strategies.</td>
+      </tr>
+    </tbody>
+  </table>
+
+ </details>
+ <p></p>
+ </p>
+
+   Discretionary Monetary and Fiscal Policy with Endogenous Sovereign Risk
   <br><i>Journal of Economic Dynamics and Control</i>, Vol. 105, 2019, pp. 44-66.
   <p style="  margin-bottom: -20px;">
   <details>
@@ -24,6 +43,7 @@
  </details>
  <p></p>
  </p>
+
 
 ----
 
@@ -64,26 +84,6 @@
     </tbody>
   </table>
 
- </details>
- <p></p>
- </p>
-
-
-  Make-Up Strategies with Incomplete Markets and Bounded Rationality
-  <br>(with M. Dobrew, R. Gerke and S. Giesen)
-  <br><i>Deutsche Bundesbank Discussion Paper</i>, 01/2023.
-  <p style="  margin-bottom: -20px;">
-  <details>
-  <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://www.bundesbank.de/resource/blob/889250/56aa852c51907a7ced79ee3d4621d7f5/mL/2023-01-23-dkp-01-data.pdf" target="_blank">[Link]</a></font></b></summary>
-  
-  <table>
-    <tbody>
-      <tr>
-        <td style="text-align: left">We study the impact of market incompleteness and bounded rationality on the effectiveness of make-up strategies. To do so, we simulate a heterogeneous-agent New Keynesian (HANK) model with reflective expectations and an occasionally-binding effective lower bound (ELB) on the policy rate. Our simulations show that make-up strategies can mitigate the negative consequences of the ELB for inflation and real economic activity. This result holds both for our HANK model as well as a corresponding representative-agent (RANK) model with complete markets, suggesting that market (in)completeness is not important for the effectiveness of make-up strategies. However, the stabilisation benefits of make-up strategies are small when agents’ cognitive ability is consistent with micro-evidence. This result is independent of market (in)completeness, emphasising the importance of rational expectations for make-up strategies. Furthermore, while market incompleteness and bounded rationality complement each other in attenuating the effects of forward guidance in our model, we do not observe such a complementarity with respect to the benefits of make-up strategies.</td>
-      </tr>
-    </tbody>
-  </table>
- 
  </details>
  <p></p>
  </p>
