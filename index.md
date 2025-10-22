@@ -161,22 +161,6 @@
 
 <h3>Work in Progress:</h3>
 
-  On Looking Through Sectoral Shocks: The Role of (De-)Anchored Inflation Expectations (with R. Gerke)
-  <p style="  margin-bottom: -20px;">
-  <details>
-  <summary><b><font size="-1">[Abstract]</font></b></summary>
-  
-  <table>
-    <tbody>
-      <tr>
-      </tr>
-    </tbody>
-  </table>
-
- </details>
- <p></p>
- </p>
-
   Present Bias and Public Debt
   <p style="  margin-bottom: -20px;">
   <details>
