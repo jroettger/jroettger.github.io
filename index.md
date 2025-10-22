@@ -7,6 +7,25 @@
 
 <h3> Publications:</h3>
 
+   Convenient but Risky Government Bonds
+  <br>(with M. Kaldorf)
+  <br><i>European Economic Review</i>, Vol. 180, 2025, 105152.
+  <p style="  margin-bottom: -20px;">
+  <details>
+  <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://doi.org/10.1016/j.euroecorev.2025.105152" target="_blank">[Link]</a></font></b></summary>
+  
+  <table>
+    <tbody>
+      <tr>
+        <td style="text-align: left">How does convenience yield interact with sovereign risk and the supply of government bonds? We propose a model of sovereign debt and default in which convenience yield arises because investors are able to pledge government bonds as collateral on financial markets. Consistent with euro area data, convenience yield is large if government bonds are (i) scarce due to investors’ high collateral valuation or (ii) safe due to a small collateral haircut being applied to them. Calibrating the model to the data, we demonstrate that convenience yield improves the fit of sovereign default models to developed economy bond market data, contributes substantially to the public debt-to-GDP ratio, and rationalizes prolonged periods of negative bond spreads – even in the presence of default risk. A large debt elasticity of investors’ collateral valuation is key to these results. In this setting, highly debt-elastic collateral haircuts exacerbate collateral scarcity in crisis times, raising government bond prices and eroding fiscal discipline.</td>
+      </tr>
+    </tbody>
+  </table>
+
+ </details>
+ <p></p>
+ </p>
+
    Make-Up Strategies with Incomplete Markets and Bounded Rationality
   <br>(with M. Dobrew, R. Gerke and S. Giesen)
   <br><i>European Economic Review</i>, Vol. 173, 2025, 104941.
@@ -68,25 +87,6 @@
  <p></p>
  </p>
 
-
-  Convenient but Risky Government Bonds
-  <br>(with M. Kaldorf)
-  <br><i>Deutsche Bundesbank Discussion Paper</i>, 15/2023.
-  <p style="  margin-bottom: -20px;">
-  <details>
-  <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://www.bundesbank.de/resource/blob/902666/20eb155c1c91855b07180c1e0a8a5b31/mL/2023-06-09-dkp-15-data.pdf" target="_blank">[Link]</a></font></b></summary>
-  
-  <table>
-    <tbody>
-      <tr>
-        <td style="text-align: left">How does convenience yield interact with sovereign risk and the supply of government bonds? We propose a model of sovereign debt and default in which convenience yield arises because investors are able to pledge government bonds as collateral on financial markets. Convenience yield is dependent on the valuation of collateral, which is negatively dependent on the supply of government bonds, and haircuts that increase with sovereign risk. Calibrated to Italian data, convenience yield contributes substantially to the public debt-to-GDP ratio and can rationalise prolonged periods of negative bond spreads, even in the presence of default risk. We show that the debt elasticity of convenience yield is the most important driver of our results. Decomposing it into the debt elasticity of a collateral valuation and a haircut component, we find that, under empirically relevant conditions, a higher debt elasticity of haircuts can reduce fiscal discipline.</td>
-      </tr>
-    </tbody>
-  </table>
-
- </details>
- <p></p>
- </p>
   
    Financial Regulation, Interest Rate Responses, and Distributive Effects (2021)
   <br>(with C. Loenser and A. Schabert)
@@ -160,6 +160,23 @@
 ----
 
 <h3>Work in Progress:</h3>
+
+  On Looking Through Sectoral Shocks: The Role of (De-)Anchored Inflation Expectations
+  <br>(with R. Gerke)
+  <p style="  margin-bottom: -20px;">
+  <details>
+  <summary><b><font size="-1">[Abstract]</font></b></summary>
+  
+  <table>
+    <tbody>
+      <tr>
+      </tr>
+    </tbody>
+  </table>
+
+ </details>
+ <p></p>
+ </p>
 
   Present Bias and Public Debt
   <p style="  margin-bottom: -20px;">
