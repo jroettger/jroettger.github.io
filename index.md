@@ -161,8 +161,7 @@
 
 <h3>Work in Progress:</h3>
 
-  On Looking Through Sectoral Shocks: The Role of (De-)Anchored Inflation Expectations
-  <br>(with R. Gerke)
+  On Looking Through Sectoral Shocks: The Role of (De-)Anchored Inflation Expectations (with R. Gerke)
   <p style="  margin-bottom: -20px;">
   <details>
   <summary><b><font size="-1">[Abstract]</font></b></summary>
