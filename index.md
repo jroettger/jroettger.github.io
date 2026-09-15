@@ -68,6 +68,25 @@
 
 <h3>Working Papers:</h3>
 
+  On Looking Through Sectoral Shocks: The Role of (De-)Anchored Inflation Expectations
+  <br>(with R. Gerke)
+  <br><i>Deutsche Bundesbank Discussion Paper</i>, 27/2026.
+  <p style="  margin-bottom: -20px;">
+  <details>
+  <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://doi.org/10.71734/DP-2026-27" target="_blank">[Link]</a></font></b></summary>
+  
+  <table>
+    <tbody>
+      <tr>
+        <td style="text-align: left">How does a possible de-anchoring of inflation expectations alter the conventional monetary policy prescription of looking through sectoral shocks? To answer this question, we study optimal monetary policy in a multisector New Keynesian model extended to allow for endogenous long-run inflation expectations. We find that the risk of de-anchoring does not change the key policy trade-offs. It remains optimal for monetary policy to stabilise the output gap and inflation in sectors with stickier prices, confirming previous findings in the literature. Moreover, output and inflation dynamics are both hardly affected by a possible de-anchoring. This contrasts with the nominal interest rate response required to achieve these outcomes, which is more aggressive when there is a risk of de-anchoring. These findings reflect an asymmetry in the pass-through of inflation expectations to firms’ price-setting and households’ consumption decisions, with the latter being stronger than the former.</td>
+      </tr>
+    </tbody>
+  </table>
+
+ </details>
+ <p></p>
+ </p>
+
   On Household Labour Supply in Sticky-Wage HANK Models
   <br>(with R. Gerke, S. Giesen and M. Lozej)
   <br><i>Deutsche Bundesbank Discussion Paper</i>, 01/2024.
@@ -87,7 +106,6 @@
  <p></p>
  </p>
 
-  
    Financial Regulation, Interest Rate Responses, and Distributive Effects (2021)
   <br>(with C. Loenser and A. Schabert)
   <p style="  margin-bottom: -20px;">
@@ -160,23 +178,6 @@
 ----
 
 <h3>Work in Progress:</h3>
-
-  On Looking Through Sectoral Shocks: The Role of (De-)Anchored Inflation Expectations
-  <br>(with R. Gerke)
-  <p style="  margin-bottom: -20px;">
-  <details>
-  <summary><b><font size="-1">[Abstract]</font></b></summary>
-  
-  <table>
-    <tbody>
-      <tr>
-      </tr>
-    </tbody>
-  </table>
-
- </details>
- <p></p>
- </p>
 
   Present Bias and Public Debt
   <p style="  margin-bottom: -20px;">
