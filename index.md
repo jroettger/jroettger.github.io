@@ -69,7 +69,7 @@
 <h3>Working Papers:</h3>
 
   On Looking Through Sectoral Shocks:
-  The Role of (De-)Anchored Inflation Expectations
+  <br>The Role of (De-)Anchored Inflation Expectations
   <br>(with R. Gerke)
   <br><i>Deutsche Bundesbank Discussion Paper</i>, 27/2026.
   <p style="  margin-bottom: -20px;">
