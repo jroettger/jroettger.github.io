@@ -10,7 +10,7 @@
    Convenient but Risky Government Bonds
   <br>(with M. Kaldorf)
   <br><i>European Economic Review</i>, Vol. 180, 2025, 105152.
-  <p style="  margin-bottom: -20px;">
+  <p style="  margin-bottom: -25px;">
   <details>
   <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://doi.org/10.1016/j.euroecorev.2025.105152" target="_blank">[Link]</a></font></b></summary>
   
@@ -29,7 +29,7 @@
    Make-Up Strategies with Incomplete Markets and Bounded Rationality
   <br>(with M. Dobrew, R. Gerke and S. Giesen)
   <br><i>European Economic Review</i>, Vol. 173, 2025, 104941.
-  <p style="  margin-bottom: -20px;">
+  <p style="  margin-bottom: -25px;">
   <details>
   <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://doi.org/10.1016/j.euroecorev.2024.104941" target="_blank">[Link]</a></font></b></summary>
   
@@ -47,7 +47,7 @@
 
    Discretionary Monetary and Fiscal Policy with Endogenous Sovereign Risk
   <br><i>Journal of Economic Dynamics and Control</i>, Vol. 105, 2019, pp. 44-66.
-  <p style="  margin-bottom: -20px;">
+  <p style="  margin-bottom: -25px;">
   <details>
   <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://doi.org/10.1016/j.jedc.2019.05.010" target="_blank">[Link]</a></font></b></summary>
   
@@ -71,9 +71,9 @@
   On Looking Through Sectoral Shocks: The Role of (De-)Anchored Inflation Expectations
   <br>(with R. Gerke)
   <br><i>Deutsche Bundesbank Discussion Paper</i>, 27/2026.
-  <p style="  margin-bottom: -20px;">
+  <p style="  margin-bottom: -25px;">
   <details>
-  <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://doi.org/10.71734/DP-2026-27" target="_blank">[Link]</a></font></b></summary>
+  <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://www.bundesbank.de/resource/blob/973908/495d2fe2dfd5ed5365006dbebc09d4bd/472B63F073F071307366337C94F8C870/2026-09-15-dkp-27-data.pdf" target="_blank">[Link]</a></font></b></summary>
   
   <table>
     <tbody>
@@ -90,7 +90,7 @@
   On Household Labour Supply in Sticky-Wage HANK Models
   <br>(with R. Gerke, S. Giesen and M. Lozej)
   <br><i>Deutsche Bundesbank Discussion Paper</i>, 01/2024.
-  <p style="  margin-bottom: -20px;">
+  <p style="  margin-bottom: -25px;">
   <details>
   <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://www.bundesbank.de/resource/blob/834744/8ae4a5d5859a2375808f19ba2eae1a59/mL/2024-01-12-dkp-01-data.pdf" target="_blank">[Link]</a></font></b></summary>
   
@@ -108,7 +108,7 @@
 
    Financial Regulation, Interest Rate Responses, and Distributive Effects (2021)
   <br>(with C. Loenser and A. Schabert)
-  <p style="  margin-bottom: -20px;">
+  <p style="  margin-bottom: -25px;">
   <details>
   <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://cmr.uni-koeln.de/sites/cmr/pdf/Schabert/FinancialRegualtionInterestrateResponsesNov2021.pdf" target="_blank">[Link]</a></font></b></summary>
   
@@ -125,7 +125,7 @@
  </p>
  
   Debt, Default, and Commitment (2019)
-  <p style="  margin-bottom: -20px;">
+  <p style="  margin-bottom: -25px;">
   <details>
   <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://cmr.uni-koeln.de/sites/cmr/pdf/Roettger_Joost/lc.pdf" target="_blank">[Link]</a></font></b></summary>
   
@@ -142,7 +142,7 @@
  </p>
  
   Monetary Conservatism, Default Risk, and Political Frictions (2017)
-  <p style="  margin-bottom: -20px;">
+  <p style="  margin-bottom: -25px;">
   <details>
   <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://ideas.repec.org/p/red/sed017/232.html" target="_blank">[Link]</a></font></b></summary>
   
@@ -159,7 +159,7 @@
  </p>
  
   Markovian Households (2016)
-  <p style="  margin-bottom: -20px;">
+  <p style="  margin-bottom: -25px;">
   <details>
   <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://cmr.uni-koeln.de/sites/cmr/pdf/Roettger_Joost/mh.pdf" target="_blank">[Link]</a></font></b></summary>
   
@@ -180,7 +180,7 @@
 <h3>Work in Progress:</h3>
 
   Present Bias and Public Debt
-  <p style="  margin-bottom: -20px;">
+  <p style="  margin-bottom: -25px;">
   <details>
   <summary><b><font size="-1">[Abstract]</font></b></summary>
   
@@ -202,7 +202,7 @@
   A Primer on Optimal Policy Projections
   <br>(with T. Dengler, R. Gerke, S. Giesen, D. Kienzler, A. Scheer and J. Wacks)
   <br><i>Deutsche Bundesbank Technical Papers</i>, 01/2024.
-  <p style="  margin-bottom: -20px;">
+  <p style="  margin-bottom: -25px;">
   <details>
   <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://www.bundesbank.de/resource/blob/922200/5af7e7312a82e909e28a17ee42f556f2/mL/2024-01-technical-paper-data.pdf" target="_blank">[Link]</a></font></b></summary>
   
@@ -221,7 +221,7 @@
   A Comparison of Monetary Policy Rules in a HANK Model
   <br>(with M. Dobrew, R. Gerke and S. Giesen)
   <br><i>Deutsche Bundesbank Technical Papers</i>, 02/2021.
-  <p style="  margin-bottom: -20px;">
+  <p style="  margin-bottom: -25px;">
   <details>
   <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://www.bundesbank.de/resource/blob/877156/99e98ff532e312e20b921630221844fb/mL/2021-02-technical-paper-data.pdf" target="_blank">[Link]</a></font></b></summary>
   
@@ -240,7 +240,7 @@
   The Incentive Effects of Monetary Policy on Fiscal Policy Behaviour
   <br>(with R. Gerke)
   <br><i>Deutsche Bundesbank Technical Papers</i>, 04/2021.
-  <p style="  margin-bottom: -20px;">
+  <p style="  margin-bottom: -25px;">
   <details>
   <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://www.bundesbank.de/resource/blob/877164/fdd398fe0650d812e519a789422b8995/mL/2021-04-technical-paper-data.pdf" target="_blank">[Link]</a></font></b></summary>
   
@@ -259,7 +259,7 @@
   A Comparison of Monetary Policy Rules in an Estimated TANK Model
   <br>(with R. Gerke, S. Giesen, D. Kienzler and A. Scheer)
   <br><i>Deutsche Bundesbank Technical Papers</i>, 05/2021.
-  <p style="  margin-bottom: -20px;">
+  <p style="  margin-bottom: -25px;">
   <details>
   <summary><b><font size="-1">[Abstract]</font></b> <b><font size="-1"><a href="https://www.bundesbank.de/resource/blob/877166/ebf41c23c2a9f1ee86c4259b690631dd/mL/2021-05-technical-paper-data.pdf" target="_blank">[Link]</a></font></b></summary>
   
